@@ -1,0 +1,10 @@
+numpy
+nltk
+torch
+tensorflow
+Flask
+nltk
+Flask_WTF
+WTForms
+pandas
+scikit_learn
